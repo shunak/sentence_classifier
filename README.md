@@ -1,1 +1,2 @@
-Now Editing...
+# How to use
+## install
