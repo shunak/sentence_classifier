@@ -1,4 +1,5 @@
 # label sentence and outputs to __label__x.txt
+# set text file name which you wanna labeling xxx.txt
 python3 preprocess1.py claim.txt
 python3 preprocess2.py prefer.txt
 
