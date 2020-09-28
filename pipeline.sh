@@ -9,6 +9,3 @@ cat __label__1.txt __label__2.txt > model.txt
 
 # make model file
 python3 learning.py model.txt model
-
-
-
