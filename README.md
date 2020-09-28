@@ -31,8 +31,9 @@ python3 prediction.py "sentence you wanna judge claim or prefer"
 ```
 #### predict results
 if the sentence is "claim"<br>
-Warning : `load_model` does not return WordVectorModel or SupervisedModel any more, but a `FastText` object which is very similar.<br>
-批判 0.5000186<br>
+
+_Warning : `load_model` does not return WordVectorModel or SupervisedModel any more, but a `FastText` object which is very similar.<br>
+批判 0.5000186_<br>
 
 output results like underneath format<br>
 "label" "probability"
