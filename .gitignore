@@ -3,4 +3,5 @@ __label__2.txt
 model.txt
 /model/model
 /class/claim.txt
-
+*
+!.gitignore
