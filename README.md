@@ -1,3 +1,4 @@
+![Python package](https://github.com/shunak/sentence_classifier/workflows/Python%20package/badge.svg?branch=master)
 ## install
 ```
 git clone https://github.com/shunak/sentence_classifier.git
