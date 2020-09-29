@@ -8,7 +8,7 @@ cd sentence_classifier
 ```
 ### make model
 put sentence file which you wanna classify.<br>
-ex. 2 patterns classify<br>
+Exp. 2 patterns classify<br>
 case, user's claim opinion <br>
 ```
 touch claim.txt
