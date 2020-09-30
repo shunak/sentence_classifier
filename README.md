@@ -24,7 +24,7 @@ execute
 ```
 bash pipeline.sh
 ```
-check if "model" file in the model directory
+check if "model" file exists in the model directory
 
 ### predict
 ```
