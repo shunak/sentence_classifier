@@ -23,10 +23,10 @@ class predict:
             node = node.next
         return surfaces
 
-    def tweet_class(self, content):
+    def classify(self, content):
         # def tweet_class(model, content):
         """
-        ツイートを解析して分類を行う
+        Analyze & Classify
         """
         words = " ".join(self.get_surfaces(content))
         # labels, probabilities = self.classifier.predict([words], k=2)[1][0]
@@ -43,4 +43,5 @@ class predict:
 
 if __name__ == '__main__':
     pre = predict()
-    pre.tweet_class("".join(sys.argv[1:]))
+    pre.classify("".join(sys.argv[1:]))
+
