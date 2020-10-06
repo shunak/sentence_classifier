@@ -10,6 +10,7 @@ cd sentence_classifier
 ### make model
 put sentence file which you wanna classify.<br>
 Exp. 2 patterns classify<br>
+Now, assuming classifying user's voice into "claim" or "prefer"<br>
 case, user's claim opinion <br>
 ```
 touch claim.txt
